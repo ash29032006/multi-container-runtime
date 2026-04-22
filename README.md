@@ -3,8 +3,8 @@
 
 | Name | SRN |
 |------|-----|
-| Aman priyansh | PES1UG24AM030 |
 | Ashwin C H | PES1UG24AM900 |
+| Aman priyansh | PES1UG24AM030 |
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### Prerequisites
 - Ubuntu 22.04 or 24.04 VM
-- Secure Boot OFF
+
 - Dependencies: `sudo apt install -y build-essential linux-headers-$(uname -r)`
 
 ### Setup
